@@ -1,0 +1,11 @@
+id,first_name,last_name,branch,mark,place,gender,college_id
+001,govind,rao,ece,94,khordha,M,001
+002,gopal,chaudhary,ece,91,khordha,M,002
+003,hari,singh,mech,94,bolangir,M,003
+004,govind,mandal,cs,85,cuttack,M,001
+005,Ram,nayak,mech,87,kendrapada,M,002
+006,Kalpana,Mishra,ece,95,puri,F,003
+007,sita,devi,cs,78,nayagarah,F,001
+008,harihar,gupta,mech,82,kendrapada,M,002
+009,dev,kumar,ece,84,cuttack,M,003
+010,sakuntala,nayak,mech,86,khordha,F,001
